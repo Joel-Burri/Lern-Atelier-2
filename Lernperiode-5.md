@@ -27,11 +27,11 @@ Modul Bezeichnung
 ### Planung 14.08.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] Ausfüllen Lernperiodenschätzung
+- [x] Ausfüllen Lernperiodenschätzung
 - [ ] Modul 320 Aufträge fertigstellen
 - [ ] Modull 322 Aufträge fertigstellen
 
-(Heute habe ich... (50-100 Wörter))
+Heute habe ich die Lernperiodeneinschätzung gemacht und versucht, ein dummes Spiel zu programmieren. Leider habe ich bis jetzt Probleme damit, und es funktioniert einfach nicht so, wie es soll. Die Datenbank ist zwar endlich eingerichtet, doch angeblich gibt es die Tabelle nicht, was natürlich ein bisschen blöd ist. Aber das wird schon noch.
 
 
 ### Planung 21.08.2026
