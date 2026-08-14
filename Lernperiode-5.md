@@ -1,4 +1,4 @@
-# Lern-Periode 5 / 6 / 7 / 8
+# Lern-Periode 5
 
 - Name: Joel Burri
 - Zeitraum: 14.08.2026 bis 18.09.2026
