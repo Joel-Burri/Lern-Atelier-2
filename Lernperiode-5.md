@@ -42,6 +42,14 @@ Heute habe ich die Lernperiodeneinschätzung gemacht und versucht, ein dummes Sp
 - [x] mini game fertigstellen
 
 ### Tagesreflexion
+Heute hatte ich zu viel Spass beim Erstellen des Minispiels. Es ist noch nicht perfekt, aber das Grundgerüst steht komplett. Leider konnte ich nicht an den Modulaufträgen arbeiten, diese werde ich aber sicher noch am Wochenende bearbeiten. Nächstes Mal will ich nicht so viel Zeit mit dem Spielen des Minispiels verbringen, sondern es stattdessen weiter ausbauen.
+
+### Planung 28.08.2026
+//potenzielle ideen
+- [ ] Ausbauen des Minigames
+- [ ] ...
+
+### Tagesreflexion
 
 ## Lernperiode Reflexion
 
