@@ -4,7 +4,7 @@
 - Zeitraum: 14.08.2026 bis 18.09.2026
 
 ## Grob-Planung
-
+Ich habe noch keine konkreten Ziele. Ich versuche aber weiterhin, mit dem Repository, in dem ich schon Commits gemacht habe, weiterzuarbeiten und Bugs zu beheben. Danach möchte ich noch eigene Projekte starten. Ich versuche, meinen KI-Bedarf in der Informatik zu senken und eigenständiger zu arbeiten.
 ### Noten
 Informatikkompetenzen Schule 5.5
 Modul Bezeichnung
@@ -20,7 +20,8 @@ Modul Bezeichnung
 - Coden an einem öffentlichen Repo
 
 ### Generelle Ziele
-- 
+- An Projekten dran bleiben und etwas finden das mir freude bereitet
+- Weniger Prokastinieren
 
 ## Tagesplanungen
 
@@ -31,17 +32,16 @@ Modul Bezeichnung
 - [ ] Modul 320 Aufträge fertigstellen
 - [ ] Modull 322 Aufträge fertigstellen
 
+### Tagesreflexion
 Heute habe ich die Lernperiodeneinschätzung gemacht und versucht, ein dummes Spiel zu programmieren. Leider habe ich bis jetzt Probleme damit, und es funktioniert einfach nicht so, wie es soll. Die Datenbank ist zwar endlich eingerichtet, doch angeblich gibt es die Tabelle nicht, was natürlich ein bisschen blöd ist. Aber das wird schon noch.
 
-
-### Planung 21.08.2026
+### Planung 21.08.2024
 3 bis 5 klar messbare Arbeitspakete.
 
 - [ ] Modulaufträge fertigstellen
-- [ ] mini game fertigstellen
-- [X] 
+- [x] mini game fertigstellen
 
-(Heute habe ich... (50-100 Wörter))
+### Tagesreflexion
 
 ## Lernperiode Reflexion
-(In dieser Lernperiode habe ich... (100-150 Wörter))
+
