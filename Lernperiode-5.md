@@ -29,8 +29,8 @@ Modul Bezeichnung
 3 bis 5 klar messbare Arbeitspakete.
 
 - [x] Ausfüllen Lernperiodenschätzung
-- [ ] Modul 320 Aufträge fertigstellen
-- [ ] Modull 322 Aufträge fertigstellen
+- [x] Modul 320 Aufträge fertigstellen
+- [x] Modull 322 Aufträge fertigstellen
 
 ### Tagesreflexion
 Heute habe ich die Lernperiodeneinschätzung gemacht und versucht, ein dummes Spiel zu programmieren. Leider habe ich bis jetzt Probleme damit, und es funktioniert einfach nicht so, wie es soll. Die Datenbank ist zwar endlich eingerichtet, doch angeblich gibt es die Tabelle nicht, was natürlich ein bisschen blöd ist. Aber das wird schon noch.
@@ -38,8 +38,9 @@ Heute habe ich die Lernperiodeneinschätzung gemacht und versucht, ein dummes Sp
 ### Planung 21.08.2024
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] Modulaufträge fertigstellen
+- [x] Modulaufträge fertigstellen
 - [x] mini game fertigstellen
+- [x] --
 
 ### Tagesreflexion
 Heute hatte ich zu viel Spass beim Erstellen des Minispiels. Es ist noch nicht perfekt, aber das Grundgerüst steht komplett. Leider konnte ich nicht an den Modulaufträgen arbeiten, diese werde ich aber sicher noch am Wochenende bearbeiten. Nächstes Mal will ich nicht so viel Zeit mit dem Spielen des Minispiels verbringen, sondern es stattdessen weiter ausbauen.
@@ -48,6 +49,7 @@ Heute hatte ich zu viel Spass beim Erstellen des Minispiels. Es ist noch nicht p
 //potenzielle ideen
 - [ ] Ausbauen des Minigames
 - [ ] ...
+- [ ] ..
 
 ### Tagesreflexion
 
