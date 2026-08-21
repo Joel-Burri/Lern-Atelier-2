@@ -20,7 +20,7 @@ Modul Bezeichnung
 - Coden an einem öffentlichen Repo
 
 ### Generelle Ziele
-- Bugs von Flint-md fixen
+- 
 
 ## Tagesplanungen
 
@@ -37,9 +37,9 @@ Heute habe ich die Lernperiodeneinschätzung gemacht und versucht, ein dummes Sp
 ### Planung 21.08.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [X] Viertes AP
+- [ ] Modulaufträge fertigstellen
+- [ ] mini game fertigstellen
+- [X] 
 
 (Heute habe ich... (50-100 Wörter))
 
