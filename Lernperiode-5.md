@@ -41,10 +41,17 @@ Heute habe ich die Lernperiodeneinschätzung gemacht und versucht, ein dummes Sp
 Heute hatte ich zu viel Spass beim Erstellen des Minispiels. Es ist noch nicht perfekt, aber das Grundgerüst steht komplett. Leider konnte ich nicht an den Modulaufträgen arbeiten, diese werde ich aber sicher noch am Wochenende bearbeiten. Nächstes Mal will ich nicht so viel Zeit mit dem Spielen des Minispiels verbringen, sondern es stattdessen weiter ausbauen.
 
 ### Planung 28.08.2026
-//potenzielle ideen
 - [ ] Ausbauen des Minigames
 - [ ] ...
 - [ ] ..
+
+### Tagesreflexion
+Heute war ein sehr schlechter Tag. Ich konnte mich nie konzentrieren oder irgendeine Idee, was ich machen könnte, bekommen. Ich wollte mit Unreal Engine was anfangen, aber das wurde durch die ewige Downloadzeit nichts. Ich habe allerdings den Modeltest gemacht. Ich vermute, dass es an der aufkommenden FRW‑Prüfung liegt, aber ich weiss, dass ich selber dafür verantwortlich bin.
+
+### Planung 04.09.2026
+- [ ] Ich möchte mich mal an einer Schach engine versuchen, da ich ja eh schon die ganze zeit Schach spiele warum solte ich nicht eine engine schaffen.
+- [ ]
+- [ ]
 
 ### Tagesreflexion
 
