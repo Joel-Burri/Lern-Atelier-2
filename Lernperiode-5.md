@@ -58,10 +58,15 @@ Ich habe angefangen mit der Schachengine, aber ich kam leider nicht so weit, da 
 
 ### Planung 11.09.2026
 - [ ] MiniMax-Algorythmus umsetzte bei der Schachengine
-- [ ] Schauen ob Modulaufträge von der Woche noch zu erledigen sind.
-- [ ] Diverses
+- [x] Schauen ob Modulaufträge von der Woche noch zu erledigen sind.
+- [x] Diverses
 
 ### Tagesreflexion
+Heute war ein voll lustiger Tag. Heute habe ich den Auftrag "Skeleton-Reassemble" erfolgreich abgeschlossen. Dabei habe ich in kurzer Zeit mehr gelernt als im gesamten Modul 320. Auch habe ich durch die heutige Übung erkannt, wie schlecht Modul 320 ist. Es ist wirklich schlecht gestaltet. Das Thema ist wichtig und interessant, aber die PowerPoints machen alles kaputt. Dann habe ich noch ein wenig an der Schachengine gearbeitet, aber ich kam nicht so vorwärts, wie ich gedacht habe. Aber das Projekt soll bis Mitte Herbst bis zu den Weihnachtsferien fertig werden.
 
+### Planung 18.09.2026
+- [ ] Projektarbeit mit Alex
+- [ ] Schachengine
 ## Lernperiode Reflexion
+
 
