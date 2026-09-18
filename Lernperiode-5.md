@@ -66,7 +66,12 @@ Heute war ein voll lustiger Tag. Heute habe ich den Auftrag "Skeleton-Reassemble
 
 ### Planung 18.09.2026
 - [ ] Projektarbeit mit Alex
-- [ ] Schachengine
+- [x] Schachengine
+
+### Tagesreflexion
+Heute habe ich recht viel an der Schachengine gearbeitet, obwohl ich brandneu anfing. Ich habe das ganze Bitboard mit der Startposition aufgesetzt und hinzugefügt, dass man Figuren herumschieben kann. Leider überprüft die Engine noch nicht, ob der Zug gültig ist, aber fürs Erste reicht das. Als Nächstes sollte das hinzugefügt werden für die Überprüfung, ob Züge gemacht werden können, und weitere Regeln wie En-passant.
+
 ## Lernperiode Reflexion
+Diese Lernperiode habe ich mit einem der besten Projekte begonnen, die ich hatte, obwohl der Start und der Verlauf des Projekts holprig verlaufen und es vom Aufbau des Programms her eine absolute Katastrophe ist – trotzdem macht es immer noch Spass. Ich kann nicht wirklich viel zu dieser Lernperiode sagen, nur dass sie am Anfang eine der unproduktivsten war und gegen Ende besser wurde.
 
 
