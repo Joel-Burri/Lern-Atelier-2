@@ -25,9 +25,12 @@ Meine Idee für die Lernperiode ist, dass ich die Engine fertigstelle. Das gross
 
 ### 16.10.2026
 - [ ] Schachengine implementation von Zugregeln
-- [ ] 
+- [ ] Modul 320 Präsentationen durcharbeiten.
 ### Tagesreflexion
+Heute habe ich die Präsentationen des Moduls 320 durchgelesen und überprüft, ob ich alles verstanden habe. Danach habe ich mir Gedanken über die Schachengine gemacht, welche die Zugregeln beinhaltet und später auch verschiedene Zugvorschläge generieren kann.
 
-
+### 23.10.2026
+- [ ] Schachengine implementation von Zugregeln
+- [ ] 
 
 ## Lernperiode Reflexion
