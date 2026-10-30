@@ -32,6 +32,12 @@ Heute habe ich die Präsentationen des Moduls 320 durchgelesen und überprüft, 
 ### 30.10.2026
 - [ ] Schachengine implementation von Zugregeln
 - [ ] Modul 346 aufarbeiten auftrag sicherheitsgruppen
-- [ ] vlt minecraft server projekt weiterarbeiten
+- [x] vlt minecraft server projekt weiterarbeiten
 
+### Tagesreflexion
+Heute habe ich an meinem privaten Minecraft-Server weitergearbeitet. Vom AWS hatte ich wegen des Ersatzgeräts nicht die Produktivität, die ich mir erhofft hatte, aber im Grossen und Ganzen konnte ich ein paar Dinge anpassen für den Server von mir und meinem Kollegen.
+### 6.11.2026
+- [ ] Schachengine implementation von Zugregeln
+- [ ] Modulaufarbeiten falls ich hintendrein bin.
+- [ ] ...
 ## Lernperiode Reflexion
