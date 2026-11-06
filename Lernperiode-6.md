@@ -37,7 +37,8 @@ Heute habe ich die Präsentationen des Moduls 320 durchgelesen und überprüft, 
 ### Tagesreflexion
 Heute habe ich an meinem privaten Minecraft-Server weitergearbeitet. Vom AWS hatte ich wegen des Ersatzgeräts nicht die Produktivität, die ich mir erhofft hatte, aber im Grossen und Ganzen konnte ich ein paar Dinge anpassen für den Server von mir und meinem Kollegen.
 ### 6.11.2026
-- [ ] Schachengine implementation von Zugregeln
+- [x] Schachengine implementation von Zugregeln
 - [ ] Modulaufarbeiten falls ich hintendrein bin.
 - [ ] ...
 ## Lernperiode Reflexion
+Part eins der Zugregeln ist gemacht wir haben noch die LB vom Mittwoch bezüglich AWS besprochen.
