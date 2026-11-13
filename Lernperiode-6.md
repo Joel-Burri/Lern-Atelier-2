@@ -45,5 +45,9 @@ Part eins der Zugregeln ist gemacht wir haben noch die LB vom Mittwoch bezüglic
 ### 13.11.2026
 - [ ] Server Plugin Fertigstellen und testen
 - [ ] ...
+### Tagesreflexion
+Ich wurde nicht fertig mit dem Plugin, da es viele Kompilierfehler gibt. Wir haben auch noch die AWS‑Aufgaben von Mittwoch besprochen, wo ja nächsten Mittwoch die LB stattfindet. 
+### 20.11.2026
+- [ ] Schach-Engine
 ## Lernperiode Reflexion
 
