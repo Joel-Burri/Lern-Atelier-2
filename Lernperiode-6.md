@@ -40,5 +40,10 @@ Heute habe ich an meinem privaten Minecraft-Server weitergearbeitet. Vom AWS hat
 - [x] Schachengine implementation von Zugregeln
 - [ ] Modulaufarbeiten falls ich hintendrein bin.
 - [ ] ...
-## Lernperiode Reflexion
+### Tagesreflexion
 Part eins der Zugregeln ist gemacht wir haben noch die LB vom Mittwoch bezüglich AWS besprochen.
+### 13.11.2026
+- [ ] Server Plugin Fertigstellen und testen
+- [ ] ...
+## Lernperiode Reflexion
+
